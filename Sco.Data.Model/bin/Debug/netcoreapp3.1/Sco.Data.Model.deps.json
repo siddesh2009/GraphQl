@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sco.Data.Model/1.0.0": {
+        "runtime": {
+          "Sco.Data.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sco.Data.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

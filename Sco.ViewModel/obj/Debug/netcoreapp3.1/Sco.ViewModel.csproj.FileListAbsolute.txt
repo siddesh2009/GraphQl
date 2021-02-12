@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\bin\Debug\netcoreapp3.1\Sco.ViewModel.deps.json
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\bin\Debug\netcoreapp3.1\Sco.ViewModel.dll
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\bin\Debug\netcoreapp3.1\Sco.ViewModel.pdb
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\obj\Debug\netcoreapp3.1\Sco.ViewModel.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\obj\Debug\netcoreapp3.1\Sco.ViewModel.AssemblyInfo.cs
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\obj\Debug\netcoreapp3.1\Sco.ViewModel.dll
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\obj\Debug\netcoreapp3.1\Sco.ViewModel.pdb
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\obj\Debug\netcoreapp3.1\Sco.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GraphQlV1\Sco.ViewModel\obj\Debug\netcoreapp3.1\Sco.ViewModel.csproj.CopyComplete

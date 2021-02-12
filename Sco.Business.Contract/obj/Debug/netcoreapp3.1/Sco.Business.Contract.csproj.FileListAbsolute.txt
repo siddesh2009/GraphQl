@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\bin\Debug\netcoreapp3.1\Sco.Business.Contract.deps.json
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\bin\Debug\netcoreapp3.1\Sco.Business.Contract.dll
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\bin\Debug\netcoreapp3.1\Sco.Business.Contract.pdb
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\bin\Debug\netcoreapp3.1\Sco.ViewModel.dll
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\bin\Debug\netcoreapp3.1\Sco.ViewModel.pdb
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\obj\Debug\netcoreapp3.1\Sco.Business.Contract.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\obj\Debug\netcoreapp3.1\Sco.Business.Contract.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\obj\Debug\netcoreapp3.1\Sco.Business.Contract.AssemblyInfo.cs
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\obj\Debug\netcoreapp3.1\Sco.Business.Contract.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\obj\Debug\netcoreapp3.1\Sco.Business.Contract.csproj.CopyComplete
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\obj\Debug\netcoreapp3.1\Sco.Business.Contract.dll
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\obj\Debug\netcoreapp3.1\Sco.Business.Contract.pdb
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\bin\Debug\netcoreapp3.1\Sco.Data.Model.dll
+C:\Users\USER\source\repos\GraphQlV1\Sco.Business.Contract\bin\Debug\netcoreapp3.1\Sco.Data.Model.pdb

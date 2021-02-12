@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\GraphQlV1\Sco.Data.Model\bin\Debug\netcoreapp3.1\Sco.Data.Model.deps.json
+C:\Users\USER\source\repos\GraphQlV1\Sco.Data.Model\bin\Debug\netcoreapp3.1\Sco.Data.Model.dll
+C:\Users\USER\source\repos\GraphQlV1\Sco.Data.Model\bin\Debug\netcoreapp3.1\Sco.Data.Model.pdb
+C:\Users\USER\source\repos\GraphQlV1\Sco.Data.Model\obj\Debug\netcoreapp3.1\Sco.Data.Model.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GraphQlV1\Sco.Data.Model\obj\Debug\netcoreapp3.1\Sco.Data.Model.AssemblyInfo.cs
+C:\Users\USER\source\repos\GraphQlV1\Sco.Data.Model\obj\Debug\netcoreapp3.1\Sco.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GraphQlV1\Sco.Data.Model\obj\Debug\netcoreapp3.1\Sco.Data.Model.dll
+C:\Users\USER\source\repos\GraphQlV1\Sco.Data.Model\obj\Debug\netcoreapp3.1\Sco.Data.Model.pdb
